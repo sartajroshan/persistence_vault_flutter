@@ -1,4 +1,4 @@
-package com.sartajroshan.persistence_vault
+package me.sartajroshan.persistence_vault
 
 import android.app.backup.BackupAgentHelper
 import android.app.backup.SharedPreferencesBackupHelper
